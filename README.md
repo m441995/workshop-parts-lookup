@@ -152,12 +152,12 @@ Note: intentional typos like `بطاريه` (should be `بطارية`) are handl
 
 **Mohamed — Brand Manager → Supply Chain Data Analyst**
 
-- 🎓 MBA (Excellent) | Engineering Degree (Honours) | SAP SD Certified
+- 🎓 MBA (Excellent) | Engineering Degree  | SAP SD / MM / DPM
 - 🔧 Background: Supply chain · After-sales · Spare parts management · Brand management
 - 🌍 Gulf market focus | Arabic NLP | AI Engineering
 - 🏗️ Building: AI tools for Arabic supply chain and automotive operations
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamed-adel-wahballa/))
 [![GitHub](https://img.shields.io/badge/GitHub-m441995-181717?style=flat-square&logo=github)](https://github.com/m441995)
 
 ---
