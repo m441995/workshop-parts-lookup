@@ -67,4 +67,4 @@ Select a car model → type or paste Arabic part names → get SAP codes in seco
 Brand Manager → Supply Chain Data Analyst | SAP SD Certified | MBA
 Gulf market focus | Arabic NLP | AI Engineering
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-adel-wahballa/) · [Email](mohamedwahbalah@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohamed-adel-wahballa/) · [Email](mailto:mohamedwahbalah@gmail.com)
