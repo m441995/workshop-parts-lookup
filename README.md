@@ -63,8 +63,8 @@ Select a car model → type or paste Arabic part names → get SAP codes in seco
 
 ## Author
 
-**Mohamed [Your Last Name]**
+**Mohamed Adel**
 Brand Manager → Supply Chain Data Analyst | SAP SD Certified | MBA
 Gulf market focus | Arabic NLP | AI Engineering
 
-[LinkedIn](https://linkedin.com/in/yourprofile) · [Email](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/mohamed-adel-wahballa/) · [Email](mohamedwahbalah@gmail.com)
